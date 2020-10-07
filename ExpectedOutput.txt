@@ -1,0 +1,147 @@
+count: 700
+[', '49, '50, '51, '52, '53, '54, '55, '56, '57, '58, '59, '60, '61, '62, '63, '64, '65, '66, '67, '68, '69, '70, '73, 'em, 'sue, 'this, 'til, 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, a, a', a-daptor, about, abundance, across, after, ah, ahh, ain't, all, all-eating, almost, along, always, an, and, another, answer, any, anything, are, arm, around, art, as, asked, assembly, at, automobile, away, awful, back, band, barrow, bars, be, bear, beauties, beauty, beauty's, because, beer, bees, before, begins, being, belong, bent, besiege, best, between, big, bill, bills, birds, bit, black, blame, bleep, blocks, blood, boat, bolts, booze, bottle, boy, bra, brew, bridge, bright, brook, brow, bud, buddy's, built, buriest, bust, busted, but, buys, by, cadillac, cadillacs, called, came, can, can't, car, carat, catch, caught, cause, chair, cheaper, cheek, child, children, choked, chorus, chrome, churl, classed, cold, come, complete, considered, content, contracted, cost, cotton, could, couldst, count, couple, court, crashed, creatures, creek, crocodile, cruel, cry, crying, cuss, cut, dad, daddy, darling, day, days, dealing, dear, decease, deep, definitely, deserv'd, desire, desmond, detroit, devised, did, didn't, die, different, dig, dime, dirty, do, does, dog, don't, done, door, doubts, down, drag, dream, dreams, drilled, drive, drove, dry, due, ear, easy, eat, else, empty, end, engine, envy, especially, evening, ever, every, everybody, everything, evil, excuse, eye, eyes, face, factory, fair, fairest, famine, feed'st, feel'st, field, fight, figured, fired, first, fish, fist, fit, flame, flow, foe, folk, fooled, foot, for, forget, forty, fought, four, free, fresh, friend, from, fuel, fulfill, full, fun, funny, gal, gatlinburg, gaudy, gave, gazed, gears, gently, george, get, gets, getting, giggle, girl, give, gives, glutton, gm, go, goes, going, golden, gone, gonna, goodbye, got, gotta, gouging, grand, grave, gravel, gray, grew, guitar, gun, guts, guy'd, ha, had, hand, hang, happy, hard, has, hate, have, he, he's, head, headed, headlights, hear, heard, heart, heir, held, hell, help, helped, her, herald, here, hey, hid, hide, high, him, his, hit, holes, home, honey, honky-tonks, hook, hound, house, how, huh, hundred, i, i'd, i'll, i'm, i've, if, ii, in, increase, into, is, it, it's, jeweler's, joke, jones, just, keen, keep, kentucky, kicked, kicking, kids, kill, kind, kit, knew, knife, know, la-la, lake, laugh, laughing, laughs, least, leave, left, leg, lend, let, lets, lie, lies, life, light's, like, line, listen, little, livery, long, looked, lookin', lot, lots, love, loving, lunchbox, lusty, lyin', ma, made, main, mak'st, make, making, man, man's, mangy, market, me, mean, meanest, meant, memory, men, merrily, mid-july, might, mine, miss, mistake, mo-chine, mobile, model, molly, money, moon, more, most, mother'd, motor, mouse, mouth, much, mud, mule, must, my, myself, name, named, need, negatory, never, new, next, niggarding, night, no, nothing, noticed, now, nuts, o', ob-la-da, ob-la-di, of, off, oh, old, on, one, only, opened, or, ornament, ought, out, outro, over, own, pa, part, pay, picked, picture, piece, pity, place, plan, please, point, pounds, praise, pretty, proud, proving, psycho-billy, pulled, pump, punched, put, putting, quick, quite, rabbit, ran, really, red, remember, retired, ride, right, ring, riper, river, roam, roar, rock, roll, rose, rough, row, rowing, rowing's, run, running, ryder, said, saloon, sat, saw, say, says, scar, search, see, seems, self, self-substantial, several, shall, shame, she, she's, shiver, shocks, shore, should, sight, sing, singer, sings, sixty, small, smile, snake, sneak, snuck, so, some, somebody, someone, something, sometimes, son, son-of-a-, song, spin, spit, spring, squeak, staff, stand, stars, stays, still, stood, stop, stores, stream, street, strong, strung, stud, stuff, style, submarine, succession, sue, sum, sunken, surprise, sweet, switch, table, tags, tail-fin, take, takes, teeth, tell, tender, thank, that, that's, the, thee, their, them, then, there, thereby, they, thief, thine, thing, things, think, this, thou, thought, three, threw, thriftless, thrill, throat, through, thy, time, title, to, together, too, took, totter'd, tough, tougher, town, transmission, treasure, trenches, tried, trolley, true, trunk, try, turned, twenty, two, type, uh, until, up, use, verse, very, view, vow, waiting, walked, wall, wanna, want, wanted, warm, was, waste, watch, water, way, we, we're, weed, weighed, well, went, were, wet, what, wheels, when, where, who, whoa, whoah, whole, whoo, wife, wild, will, win, winters, with, within, wits, working, world, world's, worn-out, worth, would, wouldn't, wrong, ya, yard, yeah, year, years, yes, you, you'd, you'll, you're, your, yours, youth's]
+
+count: 9
+[Input\Music\Beatles\Love Me Do.txt, Input\Music\Beatles\Money.txt, Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt, Input\Music\Elvis\Hound Dog.txt, Input\Music\Elvis\Love Me Tender.txt, Input\Music\Johnny Cash\A Boy Named Sue.txt, Input\Music\Johnny Cash\One Piece at a Time.txt, Input\Music\Row Row Row Your Boat.txt, Input\Sonnets\sonnets.txt]
+
+count: 106
+file: "Input\Music\Beatles\Money.txt"; line:2; column:36
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:4; column:1
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:14; column:1
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:24; column:12
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:29; column:21
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:30; column:1
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:40; column:12
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:45; column:23
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:46; column:1
+file: "Input\Music\Beatles\Ob-La-Di Ob-La-Da.txt"; line:53; column:1
+file: "Input\Music\Elvis\Hound Dog.txt"; line:6; column:1
+file: "Input\Music\Elvis\Hound Dog.txt"; line:14; column:1
+file: "Input\Music\Elvis\Hound Dog.txt"; line:22; column:1
+file: "Input\Music\Elvis\Hound Dog.txt"; line:33; column:1
+file: "Input\Music\Elvis\Hound Dog.txt"; line:45; column:1
+file: "Input\Music\Elvis\Love Me Tender.txt"; line:4; column:1
+file: "Input\Music\Elvis\Love Me Tender.txt"; line:9; column:1
+file: "Input\Music\Elvis\Love Me Tender.txt"; line:14; column:1
+file: "Input\Music\Elvis\Love Me Tender.txt"; line:19; column:1
+file: "Input\Music\Elvis\Love Me Tender.txt"; line:29; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:3; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:3; column:32
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:4; column:22
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:5; column:37
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:7; column:29
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:11; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:13; column:23
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:14; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:14; column:22
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:18; column:23
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:19; column:18
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:21; column:30
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:22; column:33
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:23; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:27; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:27; column:21
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:28; column:20
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:36; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:36; column:35
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:37; column:12
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:37; column:21
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:37; column:30
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:38; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:38; column:21
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:39; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:44; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:45; column:25
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:47; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:47; column:33
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:48; column:9
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:48; column:35
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:48; column:49
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:53; column:23
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:54; column:19
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:55; column:21
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:56; column:30
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:59; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:60; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:61; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:62; column:24
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:64; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:68; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:68; column:25
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:69; column:17
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:71; column:27
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:75; column:21
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:76; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:76; column:25
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:77; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:78; column:1
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:78; column:28
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:79; column:18
+file: "Input\Music\Johnny Cash\A Boy Named Sue.txt"; line:80; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:3; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:6; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:6; column:32
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:7; column:46
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:17; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:25; column:23
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:31; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:31; column:37
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:32; column:30
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:34; column:12
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:34; column:23
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:38; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:40; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:41; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:43; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:46; column:24
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:49; column:24
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:52; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:53; column:25
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:55; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:59; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:63; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:74; column:1
+file: "Input\Music\Johnny Cash\One Piece at a Time.txt"; line:76; column:1
+file: "Input\Music\Row Row Row Your Boat.txt"; line:33; column:16
+file: "Input\Music\Row Row Row Your Boat.txt"; line:38; column:13
+file: "Input\Sonnets\sonnets.txt"; line:12; column:1
+file: "Input\Sonnets\sonnets.txt"; line:14; column:1
+file: "Input\Sonnets\sonnets.txt"; line:16; column:38
+file: "Input\Sonnets\sonnets.txt"; line:21; column:1
+file: "Input\Sonnets\sonnets.txt"; line:27; column:27
+file: "Input\Sonnets\sonnets.txt"; line:30; column:21
+file: "Input\Sonnets\sonnets.txt"; line:33; column:1
+
+count: 32
+file: "Input\Music\Beatles\Money.txt"; line:4; column:20
+file: "Input\Music\Beatles\Money.txt"; line:5; column:1
+file: "Input\Music\Beatles\Money.txt"; line:5; column:21
+file: "Input\Music\Beatles\Money.txt"; line:6; column:1
+file: "Input\Music\Beatles\Money.txt"; line:6; column:21
+file: "Input\Music\Beatles\Money.txt"; line:7; column:1
+file: "Input\Music\Beatles\Money.txt"; line:12; column:20
+file: "Input\Music\Beatles\Money.txt"; line:13; column:1
+file: "Input\Music\Beatles\Money.txt"; line:13; column:21
+file: "Input\Music\Beatles\Money.txt"; line:14; column:1
+file: "Input\Music\Beatles\Money.txt"; line:14; column:21
+file: "Input\Music\Beatles\Money.txt"; line:15; column:1
+file: "Input\Music\Beatles\Money.txt"; line:20; column:20
+file: "Input\Music\Beatles\Money.txt"; line:21; column:1
+file: "Input\Music\Beatles\Money.txt"; line:21; column:21
+file: "Input\Music\Beatles\Money.txt"; line:22; column:1
+file: "Input\Music\Beatles\Money.txt"; line:22; column:21
+file: "Input\Music\Beatles\Money.txt"; line:23; column:1
+file: "Input\Music\Beatles\Money.txt"; line:25; column:26
+file: "Input\Music\Beatles\Money.txt"; line:26; column:21
+file: "Input\Music\Beatles\Money.txt"; line:27; column:30
+file: "Input\Music\Beatles\Money.txt"; line:28; column:12
+file: "Input\Music\Beatles\Money.txt"; line:29; column:1
+file: "Input\Music\Beatles\Money.txt"; line:29; column:27
+file: "Input\Music\Beatles\Money.txt"; line:30; column:1
+file: "Input\Music\Beatles\Money.txt"; line:32; column:26
+file: "Input\Music\Beatles\Money.txt"; line:33; column:21
+file: "Input\Music\Beatles\Money.txt"; line:34; column:37
+file: "Input\Music\Beatles\Money.txt"; line:35; column:20
+file: "Input\Music\Beatles\Money.txt"; line:36; column:1
+file: "Input\Music\Beatles\Money.txt"; line:36; column:27
+file: "Input\Music\Beatles\Money.txt"; line:37; column:1
